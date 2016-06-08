@@ -14,6 +14,7 @@
 		6E9599541D07125B009852D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E9599521D07125B009852D4 /* LaunchScreen.storyboard */; };
 		6E95995F1D07125B009852D4 /* PlaySound_02Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E95995E1D07125B009852D4 /* PlaySound_02Tests.swift */; };
 		6E95996A1D07125B009852D4 /* PlaySound_02UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9599691D07125B009852D4 /* PlaySound_02UITests.swift */; };
+		6E9599781D071303009852D4 /* airplane1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E9599771D071303009852D4 /* airplane1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6E9599651D07125B009852D4 /* PlaySound_02UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlaySound_02UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E9599691D07125B009852D4 /* PlaySound_02UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound_02UITests.swift; sourceTree = "<group>"; };
 		6E95996B1D07125B009852D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E9599771D071303009852D4 /* airplane1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = airplane1.mp3; path = ../../../../Downloads/airplane1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		6E9599481D07125B009852D4 /* PlaySound_02 */ = {
 			isa = PBXGroup;
 			children = (
+				6E9599771D071303009852D4 /* airplane1.mp3 */,
 				6E9599491D07125B009852D4 /* AppDelegate.swift */,
 				6E95994B1D07125B009852D4 /* ViewController.swift */,
 				6E95994D1D07125B009852D4 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E9599781D071303009852D4 /* airplane1.mp3 in Resources */,
 				6E9599541D07125B009852D4 /* LaunchScreen.storyboard in Resources */,
 				6E9599511D07125B009852D4 /* Assets.xcassets in Resources */,
 				6E95994F1D07125B009852D4 /* Main.storyboard in Resources */,
